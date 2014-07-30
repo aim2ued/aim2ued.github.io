@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-highcharts",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-connect": "~0.4.1"
+    }
+}
