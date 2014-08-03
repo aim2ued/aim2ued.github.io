@@ -6,7 +6,7 @@
         "date": "2014-07-31"
     },
     {
-    	"title": "线程安全的HashMap",
+    	"title": "面试中的Map",
         "path": "2014-08-01-concurrenthashmap",
         "tags": ["Java"],
         "date": "2014-08-01"
