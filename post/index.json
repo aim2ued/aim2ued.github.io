@@ -10,5 +10,11 @@
         "path": "2014-08-01-concurrenthashmap",
         "tags": ["Java"],
         "date": "2014-08-01"
+    },
+    {
+        "title": "技术与业务的思考",
+        "path": "2014-08-04-about-techinology",
+        "tags": ["业务"],
+        "date": "2014-08-04"
     }
 ]
