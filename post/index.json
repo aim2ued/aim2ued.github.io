@@ -16,5 +16,11 @@
         "path": "2014-08-04-about-techinology",
         "tags": ["业务"],
         "date": "2014-08-04"
+    },
+    {
+        "title": "Java程序员好意思说自己不懂虚拟机吗？",
+        "path": "2014-08-05-about-jvm",
+        "tags": ["Java"],
+        "date": "2014-08-05"  
     }
 ]
